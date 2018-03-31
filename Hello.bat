@@ -1,0 +1,1 @@
+echo "Hello World!! this is connectivity test between Git and Jenkins" >> C:\Hello.txt
